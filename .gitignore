@@ -1,2 +1,6 @@
 chroma_db/
 chroma_env/
+db/
+my_chroma_db/
+rag_db/
+.env
